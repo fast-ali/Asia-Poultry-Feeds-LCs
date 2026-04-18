@@ -15,7 +15,7 @@ export default function Home() {
         {/* Status Indicator */}
         <div className="inline-flex items-center space-x-2 bg-[#1e1e1e] border border-gray-800 px-4 py-2 rounded-full mt-8">
           <div className="w-2.5 h-2.5 bg-green-500 rounded-full animate-pulse"></div>
-          <span className="text-sm font-medium text-gray-300">System Initialization in Progress</span>
+          <span className="text-sm font-medium text-gray-300">Coming Soon</span>
         </div>
       </div>
     </div>
